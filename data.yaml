@@ -1,0 +1,5 @@
+train: c:\Users\hp\Downloads\yolopro\Dataset\train\images
+val: c:\Users\hp\Downloads\yolopro\Dataset\val\images
+
+nc: 7
+names: ['Fork', 'Knife', 'Plate', 'Spoon', 'Mug', 'Glass', 'Tongs']
